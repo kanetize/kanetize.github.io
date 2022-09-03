@@ -51,7 +51,7 @@ header{
 }
 
 .top{
-  background-image: url(/image/top-bg.png);
+  background-image: url(https://github.com/kanetize/kanetize.github.io/blob/main/top-bg.png?raw=true);
   background-size: cover;
   background-position: center;
   height: 551px;
